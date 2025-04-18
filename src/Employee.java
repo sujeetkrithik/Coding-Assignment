@@ -1,9 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
 public class Employee {
-    Scanner scan = new Scanner(System.in);
     private int id;
     private String name;
     private double salary;
